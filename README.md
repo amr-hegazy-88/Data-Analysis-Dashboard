@@ -6,3 +6,6 @@ Identifying top-selling products and high-margin categories.
 Monitoring inventory levels and evaluating supply chain efficiency.
 Analyzing customer demographics and geographic sales distribution to optimize marketing efforts.
 Developing interactive dashboards to track Key Performance Indicators (KPIs) effectively.
+# Dataset used
+- <a href = "https://github.com/amr-hegazy-88/Data-Analysis-Dashboard/blob/main/Food%20Mart%20Data.xlsx">Dataset</a>
+
