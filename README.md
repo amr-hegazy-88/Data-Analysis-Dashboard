@@ -25,3 +25,10 @@ Developing interactive dashboards to track Key Performance Indicators (KPIs) eff
 - Customer Trends: Analyzed how different customer segments (based on income or education) impact sales volume.
 # Dashboard Preview
 - <a href = "https://github.com/amr-hegazy-88/Data-Analysis-Dashboard/blob/main/Food.mart.sales-Analysis_Amr%20hegazy.pbix">View Dashboard</a>
+# The Process
+- I followed a structured data analysis workflow to ensure accuracy and clarity:
+- Data Connection: Integrated multiple data sources related to Food Mart sales into Power BI.
+- ETL & Cleaning (Power Query): Cleaned raw data by removing duplicates, handling missing values, and transforming columns to ensure consistent data types.
+- Data Modeling: Designed a Star Schema with a centralized Sales Fact table connected to Dimension tables (Store, Product, Customer, and Date) for optimized performance.
+- DAX Development: Authored custom DAX measures to calculate essential metrics like Total Revenue, Net Profit, and Growth Rates.
+- Dashboard Design: Created an interactive and user-friendly interface using specialized visuals, slicers, and drill-through features to provide deep-dive insights.
